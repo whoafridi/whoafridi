@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi There, I am <a href="http://whoafridi.github.io/">Afridi</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
- <!---<img align='right' src="https://user-images.githubusercontent.com/35966401/94901195-105dac00-04b8-11eb-8449-684ae544fda8.png" width="150" /> ---!>
 
 <a href="https://sites.google.com/diu.edu.bd/whoafridi/home"><img src="https://user-images.githubusercontent.com/35966401/94904187-c1fedc00-04bc-11eb-83d8-a4d18d18607c.png" width="42"/></a>
 <a href="https://www.facebook.com/in/whoafridi/"><img src="https://user-images.githubusercontent.com/35966401/94904279-e5c22200-04bc-11eb-98fe-19d3a9549ee1.png" width="40" /></a>
@@ -27,7 +26,8 @@ Here are some ideas to get you started:
 <a href="mailto:afridirk10@gmail.com"><img src="https://github.com/lucky630/lucky630/blob/master/images/gmail_logo.png" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCKGVmAFzY1-mLLA9zE5veHw/featured"><img src="https://github.com/lucky630/lucky630/blob/master/images/youtube_logo.png" width="70" /></a>
 
-
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=whoafridi" alt="harunshimanto" /> </p>
+ 
 ## {...} My Stack
 
 ```json

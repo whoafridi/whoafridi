@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 ```json
 {
-   "languages": ["Python", "Java"],
+   "languages": ["Python", "JavaScript"],
    "backend": ["Django","Flask"],
-   "frontend": ["html", "css"],
-   "databases": ["msSQL","postgresql"],
-   "ai framework":["Keras","Tensorflow","Scikit-learn"],
-   "experimenting": ["Django", "Heroku"]
+   "frontend": ["html", "css", "ReactJS"],
+   "databases": ["msSQL","postgresql", "Mongodb"],
+   "AI framework":["Keras","Tensorflow","Scikit-learn"],
+   "experimenting": ["Docker", "Heroku", "Nodejs"]
 }
 ```
 
@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 <details>
 <summary>What I do? 👨‍💻</summary>
   <pre>
-  # I'm a Junior Airtificial Intelligence Engineer at <a href="https://deepsightai.com/">DeepSightAI</a> 
+  # I'm a researcher from CI lab.
   # Currently working on Computer Vision. 
-  # Also have working experience with DIU NLP & ML Research lab.
   # I'm a passionate individual who always thrive to work on end to end products.
 
   </pre>
@@ -61,6 +60,7 @@ Here are some ideas to get you started:
   <li>You can 🔗 me on Linkedin.</li>
   <li>You can 📧 your Queries.</li>
   <li>You can Google 🔍 Rednivrug and find some other channel 😉</li>
+ <li> [Find me on Google scholar](https://scholar.google.com/citations?user=vKbKsA8AAAAJ) </li>
 </ul>
 </details>
 
@@ -72,6 +72,24 @@ Here are some ideas to get you started:
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 </details>
+
+
+# ML Competitions on [Kaggle](https://www.kaggle.com/)
+
+The following table contains all the code bases of the competitions that I participated on Kaggle. Most of the solution are done through kaggle kernel.
+
+
+| No. |                                  Challenge Name                                  |                                                                                         GitHub Repo                                                                                            |      Type      |                       Position                        | LeaderBoard |
+| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
+|  1.  |         Cassava-Leaf-Disease-Classification        |        updated soon       |  Classification |  2212th out of 4000 teams (Top 57%)        | [Link](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard) |
+|  2.  |    Natural Language Processing with Disaster Tweets        |        updated soon        | Classification |       Solo 42th out of 1107 teams (Top 4%)       | [Link](https://www.kaggle.com/c/nlp-getting-started/leaderboard) |
+
+
+# Miscellaneous Competitions
+
+| No. |  Challenge Name |   GitHub Repo   |      Type      |    Position   | LeaderBoard |
+| :-: | :-------------: | :-------------: | :------------: | :-----------: | :---------: |
+| 1.  | Dhaka-Ai-Traffic-Detection-Challenge | [Repo Link](https://github.com/whoafridi/Dhaka-Ai-Traffic-Detection-Challenge) | Object Dectection and Localization | 27th out of 149 teams (Top 18%) | Team name [DeepSight Ninjas](https://dhaka-ai.com/leaderboard)     |
 
 
 

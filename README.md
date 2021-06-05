@@ -83,7 +83,7 @@ The following table contains all the code bases of the competitions that I parti
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
 |  1.  |         Cassava-Leaf-Disease-Classification        |        updated soon       |  Classification |  2212th out of 4000 teams (Top 57%)        | [Link](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard) |
 |  2.  |    Natural Language Processing with Disaster Tweets        |        updated soon        | Classification |       Solo 42th out of 1107 teams (Top 4%)       | [Link](https://www.kaggle.com/c/nlp-getting-started/leaderboard) |
-
+|  3.  |    Plant Pathology 2021 - FGVC8       |        updated soon        | Classification |       Solo 330th out of 626 teams (Top 53%)       | [Link](https://www.kaggle.com/c/plant-pathology-2021-fgvc8/leaderboard) |
 
 # Miscellaneous Competitions
 
